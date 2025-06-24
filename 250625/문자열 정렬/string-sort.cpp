@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
-using naespace std;
+using namespace std;
 int main(){
     int a;
     string g;

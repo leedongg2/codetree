@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-int g[1001];
+int g[2001];
 int main(){
     int a,b,c,d=0,e,f;
     cin>>a;

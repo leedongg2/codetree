@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout<<"Hellop"<<'\n'<<"World";
+    cout<<"Hello"<<'\n'<<"World";
     return 0;
 }
